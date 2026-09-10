@@ -442,32 +442,14 @@ Note that, in the interest of space, most optional external modules that do not 
         <br/>
         <span class="text-muted"><i>Lecturer: Sam Chow</i></span>
         <br/>
-        <table>
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Score</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Enjoyment</td>
-              <td>5/5</td>
-            </tr>
-            <tr>
-              <td>Conceptual difficulty</td>
-              <td>3/5</td>
-            </tr>
-            <tr>
-              <td>Problem-sheet difficulty</td>
-              <td>4/5</td>
-            </tr>
-            <tr>
-              <td>Workload</td>
-              <td>2/5</td>
-            </tr>
-          </tbody>
-        </table>
+        Enjoyment: 5/5
+        <br/>
+        Conceptual difficulty: 3/5
+        <br/>
+        Problem-sheet difficulty: 4/5
+        <br/>
+        Workload: 2/5
+        <br/>
         <br/>
         One of my favourite modules of the year, even though I am more inclined towards applied maths. Some of the proofs were just beautiful. There are challenging ideas, but I found the content very manageable overall. This was one of my lighter modules in terms of workload, though I still spent plenty of time on it simply because I enjoyed it. The first two or three weeks felt largely like revision of the number theory in <i>Foundations</i>/<i>Numbers and Sets</i>. Students with an olympiad number theory background will probably recognise quite a few ideas, especially early on, and may even find the content a bit dull; I am not an olympiad student, so most of the ideas were fairly new to me. There are many satisfying connections between this module and <i>Algebra 3</i>, namely Gaussian integers, Euclidean algorithms, Bézout’s identity, primes versus irreducibles, and unique factorisation. The overlap is particularly helpful during revision, as work for one module reinforces the other.
         <br/>
